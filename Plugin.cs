@@ -17,6 +17,10 @@ namespace csv.woxplugin
 
         private List<Result> Results;
 
+        public string Name => "CSV Plugin";
+
+        public string Description => "CSV plugin for extending the search with arbitrary values";
+
         public void Init(PluginInitContext context) {
             this.Results = new List<Result>();
 

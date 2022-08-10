@@ -1,12 +1,14 @@
 {
-  "ID": "1b94d607-18e8-4a10-ad13-eb174ebca871",
+  "ID": "1b94d607-18e8-4a10-ad13-eb174ebca872",
   "ActionKeyword": "*",
+  "IsGlobal": true,
   "Name": "CSV Plugin",
-  "Description": "CSV Plugin für die Integration v",
-  "Author": "Andreas Weber",
+  "Description": "CSV plugin for extending the search with arbitrary values",
+  "Author": "ODAV",
   "Version": "1.0",
   "Language": "csharp",
   "Website": "https://github.com/Wox-launche/Wox",
-  "IcoPath": "Images\\csv.png",
+  "IcoPathDark": "./csv.png",
+  "IcoPathLight": "./csv.png",
   "ExecuteFileName": "csv.woxplugin.dll"
 }
