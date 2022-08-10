@@ -1,0 +1,12 @@
+{
+  "ID": "1b94d607-18e8-4a10-ad13-eb174ebca871",
+  "ActionKeyword": "*",
+  "Name": "CSV Plugin",
+  "Description": "CSV Plugin für die Integration v",
+  "Author": "Andreas Weber",
+  "Version": "1.0",
+  "Language": "csharp",
+  "Website": "https://github.com/Wox-launche/Wox",
+  "IcoPath": "Images\\csv.png",
+  "ExecuteFileName": "csv.woxplugin.dll"
+}
